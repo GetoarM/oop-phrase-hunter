@@ -10,6 +10,6 @@ by clicking letters on an onscreen keyboard or his own keyboard.
 * Added transform scale on start game button
 * Changed the color-win 
 * Changed the color-lose
-* Changed the main-container background color
+* Changed the start page background color
 
 OOP - Phrase Hunter Game [Live](https://getoarm.github.io/phrase-hunter-oop/)
