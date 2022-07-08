@@ -12,4 +12,4 @@ by clicking letters on an onscreen keyboard or his own keyboard.
 * Changed the color-lose
 * Changed the start page background color
 
-OOP - Phrase Hunter Game [Live](https://getoarm.github.io/phrase-hunter-oop/)
+OOP - Phrase Hunter Game [Live Preview](https://getoarm.github.io/phrase-hunter-oop/)
