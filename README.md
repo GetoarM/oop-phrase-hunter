@@ -11,4 +11,4 @@ by clicking letters on an onscreen keyboard or his own keyboard.
 * Changed the color-win 
 * Changed the color-lose
 
-OOP - Phrase Hunter Game [Live]([#](https://getoarm.github.io/oop-phrase-hunter/))
+OOP - Phrase Hunter Game [Live](https://getoarm.github.io/oop-phrase-hunter/)
