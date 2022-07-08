@@ -24,7 +24,7 @@ class Game {
     /**
     * Begins game by selecting a random phrase and displaying it to user
     */
-   
+
     startGame(){
         document.getElementById('overlay').style.display = 'none';
         this.activePhrase = this.getRandomPhrase();
@@ -91,11 +91,11 @@ class Game {
         if (gameWon) {
             overlay.className = 'win';
             message.innerHTML = `Congratulations! <br>
-            You guessed the phrase - "${this.activePhrase.phrase}"`
+            You guessed the phrase "${this.activePhrase.phrase}"`
         } else {
             overlay.className = 'lose';
             message.innerHTML = `Better luck next time! <br>
-            The correct phrase was - "${this.activePhrase.phrase}"`;
+            The correct phrase was "${this.activePhrase.phrase}"`;
         }
         overlay.style.display = 'flex';
         this.resetGame();   
