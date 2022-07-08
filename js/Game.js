@@ -1,7 +1,3 @@
-/* Treehouse FSJS Techdegree
- * Project 4 - OOP Game App
- * Game.js */
-
 class Game {
     constructor(){
         this.missed = 0;
@@ -25,6 +21,10 @@ class Game {
         return this.phrases[randomPhrase];  
     };
 
+    /**
+    * Begins game by selecting a random phrase and displaying it to user
+    */
+   
     startGame(){
         document.getElementById('overlay').style.display = 'none';
         this.activePhrase = this.getRandomPhrase();

@@ -1,12 +1,11 @@
-/* Treehouse FSJS Techdegree
- * Project 4 - OOP Game App
- * Phrase.js */
-
 class Phrase {
     constructor(phrase){
         this.phrase = phrase.toLowerCase();
     };
 
+    /**
+    * Display phrase on game board
+    */
     addPhraseToDisplay(){
         const phrase = this.phrase;
         for(let i = 0; i < phrase.length; i++){
@@ -46,5 +45,5 @@ class Phrase {
                 li[i].classList.add('show');
             }
         }
-    };
+    }
 }
