@@ -168,7 +168,7 @@ button {
 }
 
 .start {
-  background-color: #3a3f58;
+  background: linear-gradient(157deg, #265372 0%, #3677a4 100%);
 }
 
 .start a {
