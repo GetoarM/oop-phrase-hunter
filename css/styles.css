@@ -193,10 +193,6 @@ button {
 
 /* Extra CSS */
 
-.key:hover {
-  transform: scale(1.25);
-}
-
 .chosen {
   background: #3659a2;
   border-radius: 5px;
