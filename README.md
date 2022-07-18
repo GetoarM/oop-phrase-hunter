@@ -6,7 +6,6 @@ by clicking letters on an onscreen keyboard or his own keyboard.
 
 # modified styles
 
-* Added transform scale on keyboard letters
 * Added transform scale on start game button
 * Changed the color-win 
 * Changed the color-lose
